@@ -1,0 +1,42 @@
+.relative{
+    position: relative;
+    
+    display: cover;
+    
+    
+}
+
+.absolute{
+    position: absolute;
+    top: 10%;
+
+    left: 12%;
+    
+    
+}
+.bg-gray{
+    background-color: #bab4b8;
+}
+.bg-gray{
+    color:#bab4b8 ;
+}
+#input {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #000000;
+}
+.absolute2{
+    position: absolute;
+    width: 100%;
+    top: 13%;
+}
+.float-right{
+    float: right;
+}
+.img-w{
+    min-height: 62vh;
+}
+.img-w1
+{
+    min-height: 18vh;
+}
